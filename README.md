@@ -7,7 +7,7 @@ this repo has created in 8/17/2017 and the goal is to run a fun class for learni
 
 lets start with our *tutorial site :* [W3Schools](https://www.w3schools.com/)
 
-and install a good and easy *editor :* [subime]
+and install a good and easy *editor :* [subime](https://www.sublimetext.com/)
 
 ## how to run a html file on your browser:
 
