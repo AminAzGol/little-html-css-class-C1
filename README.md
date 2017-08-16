@@ -9,17 +9,17 @@ lets start with our *tutorial site :* [W3Schools](https://www.w3schools.com/)
 
 and install a good and easy *editor :* [subime]
 
-*how to run a html file on your browser:*
+## how to run a html file on your browser:
 
 * creat a empty enything.html file and open it by sublime
 
 * write the primary codes of html 
 
-*explain html , head , meta , link , body tags
+* explain html , head , meta , link , body tags
 
-*open the html file in browser
+* open the html file in browser
 
-*homeWork for next class*
+## homeWorks for next class
 
 * read [W3Schools](https://www.w3schools.com/) documents of html
 
