@@ -4,3 +4,5 @@
 Hello there
 
 this repo has created in 8/17/2017 and the goal is to run a fun class for learning Html5 & Css3
+
+lets start with our *tutorial site :* [W3Schools](https://www.w3schools.com/)
