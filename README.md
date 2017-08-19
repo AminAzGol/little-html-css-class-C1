@@ -21,7 +21,7 @@ and install a good and easy *editor :* [subime](https://www.sublimetext.com/)
 
 ## homeWorks for next class
 
-* read [W3Schools](https://www.w3schools.com/) documents of html
+* read [W3Schools](https://www.w3schools.com/) documents of html atlist to style page
 
 * built a site just for fun 
 
