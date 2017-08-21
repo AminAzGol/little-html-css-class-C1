@@ -25,3 +25,8 @@ and install a good and easy *editor :* [subime](https://www.sublimetext.com/)
 
 * built a site just for fun 
 
+## homworks ranking
+
+1.fatemeBs :ok_hand:
+
+2.horatm :like: shirni
